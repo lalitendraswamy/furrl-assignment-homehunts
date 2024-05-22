@@ -1,0 +1,11 @@
+.filters-container {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+  margin-bottom: 30px;
+  scrollbar-width: none;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}

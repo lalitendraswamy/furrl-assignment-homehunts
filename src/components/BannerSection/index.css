@@ -1,0 +1,20 @@
+.image-container{
+    max-height: 50%;
+    width: 100%;
+}
+
+.banner-image{
+    width:100%;
+}
+
+@media (min-width: 768px){
+
+    .image-container{
+        max-height: 70%;
+    }
+
+    .banner-image{
+        height: 50vh;
+        
+    }
+}

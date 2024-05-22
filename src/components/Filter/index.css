@@ -1,0 +1,9 @@
+.filter-button{
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    border-color: #697676;
+    color: #697676;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.delivery-heading{
+    width: fit-content;
+}
+
+.product-detail-caption{
+    color: gray;
+}
+
+.transparent-button{
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+
+.pin-code-container{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}

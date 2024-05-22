@@ -1,0 +1,19 @@
+.product-detail-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: fit-content;
+    line-height: 0;
+}
+
+.product-detail-symbol{
+    margin-right: 10px;
+}
+
+.description-toggle{
+    text-align: right;
+    color: #7c5be7;
+    cursor: pointer;
+}
+
